@@ -4,4 +4,6 @@
 
 2.[HUMANODE](https://telemetry.humanode.io/#list/0xc56fa32442b2dad76f214b3ae07998e4ca09736e4813724bfb0717caae2c8bee)
 
-3. [MANDE](https://portal.dymension.xyz/rollapp/mande_18071918-1/staking)
+3.[MANDE](https://portal.dymension.xyz/rollapp/mande_18071918-1/staking)
+
+4.[TRANSFORMERS](https://explorer.tfsc.io/#/pc/ValidatorDetail?address=0x04E11563D0Fd748d3b2e4913A5911b542a785c68)
