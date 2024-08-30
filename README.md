@@ -12,6 +12,12 @@
 </div>
 
 
-3.[MANDE](https://portal.dymension.xyz/rollapp/mande_18071918-1/staking)
+<div style="margin: 20px 0;">
+  <h2>3. <a href="https://portal.dymension.xyz/rollapp/mande_18071918-1/staking">MANDE</a></h2>
+  <img src="https://github.com/user-attachments/assets/7d593264-9c9c-4c2f-8f4d-78c4f04c0e30" style="width: 150px; height: 150px; border-radius: 50%; margin: 10px 0;">
+</div>
 
-4.[TRANSFORMERS](https://explorer.tfsc.io/#/pc/ValidatorDetail?address=0x04E11563D0Fd748d3b2e4913A5911b542a785c68)
+<div style="margin: 20px 0;">
+  <h2>4. <a href="https://explorer.tfsc.io/#/pc/ValidatorDetail?address=0x04E11563D0Fd748d3b2e4913A5911b542a785c68">TRANSFORMERS</a></h2>
+  <img src="https://github.com/user-attachments/assets/06f289a3-10e5-4e86-a326-fc95142d40a6" style="width: 150px; height: 150px; border-radius: 50%; margin: 10px 0;">
+</div>
