@@ -6,9 +6,9 @@
 </div>
 
 
-2. <div style="margin: 20px 0;">
-  <h2>1. <a href="[https://app.muon.net/dashboard/](https://telemetry.humanode.io/#list/0xc56fa32442b2dad76f214b3ae07998e4ca09736e4813724bfb0717caae2c8bee)">HUMANODE</a></h2>
-  <img src="https://github.com/user-attachments/assets/2b5a9332-6965-4341-9106-ae2036ae525c" style="width: 150px; height: 150px; border-radius: 50%; margin: 10px 0;">
+<div style="margin: 20px 0;">
+  <h2>2. <a href="[https://app.muon.net/dashboard/](https://telemetry.humanode.io/#list/0xc56fa32442b2dad76f214b3ae07998e4ca09736e4813724bfb0717caae2c8bee)">HUMANODE</a></h2>
+  <img src="https://github.com/user-attachments/assets/3b7c6520-fd3b-4d0f-8644-8c02f069ce29" style="width: 150px; height: 150px; border-radius: 50%; margin: 10px 0;">
 </div>
 
 
