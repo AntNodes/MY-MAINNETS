@@ -5,7 +5,7 @@
     <h2><a href="https://app.muon.net/dashboard/">MUON</a></h2>
     <img src="https://github.com/user-attachments/assets/369afa20-60a0-4340-b9ff-43778f8370b7" style="width: 150px; height: 150px; border-radius: 50%;">
   </div>
-  <div style="text-align: left;">
+  <div style="text-align: center;">
     <h2><a href="https://telemetry.humanode.io/#list/0xc56fa32442b2dad76f214b3ae07998e4ca09736e4813724bfb0717caae2c8bee">HUMANODE</a></h2>
     <img src="https://github.com/user-attachments/assets/3b7c6520-fd3b-4d0f-8644-8c02f069ce29" style="width: 150px; height: 150px; border-radius: 50%;">
   </div>
