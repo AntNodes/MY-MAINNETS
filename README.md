@@ -6,7 +6,10 @@
 </div>
 
 
-2.[HUMANODE](https://telemetry.humanode.io/#list/0xc56fa32442b2dad76f214b3ae07998e4ca09736e4813724bfb0717caae2c8bee)
+2. <div style="margin: 20px 0;">
+  <h2>1. <a href="[https://app.muon.net/dashboard/](https://telemetry.humanode.io/#list/0xc56fa32442b2dad76f214b3ae07998e4ca09736e4813724bfb0717caae2c8bee)">HUMANODE</a></h2>
+  <img src="https://github.com/user-attachments/assets/6b6db3e1-915d-4660-b9ac-53d743fd57bd" style="width: 150px; height: 150px; border-radius: 50%; margin: 10px 0;">
+</div>
 
 3.[MANDE](https://portal.dymension.xyz/rollapp/mande_18071918-1/staking)
 
