@@ -19,6 +19,7 @@
   </div>
   <div style="text-align: center;">
     <h2><a href="https://explorer.kjnodes.com/nillion/staking/nillionvaloper1s8ee8qaaz5gt38pfksjry79jcjwrd78mphjf2r">NILLION</a></h2>
-    <img src="https://github.com/AntNodes/MY-MAINNETS/issues/1#issue-3041798534" style="width: 150px; height: 150px; border-radius: 50%;">
+    <img src="![1639611675721](https://github.com/user-attachments/assets/1ed5904e-b656-4e79-af70-20454d18e9f4)
+" style="width: 150px; height: 150px; border-radius: 50%;">
   </div>
 </div>
