@@ -17,4 +17,8 @@
     <h2><a href="https://explorer.tfsc.io/#/pc/ValidatorDetail?address=0x04E11563D0Fd748d3b2e4913A5911b542a785c68">TRANSFORMERS</a></h2>
     <img src="https://github.com/user-attachments/assets/06f289a3-10e5-4e86-a326-fc95142d40a6" style="width: 150px; height: 150px; border-radius: 50%;">
   </div>
+  <div style="text-align: center;">
+    <h2><a href="https://explorer.kjnodes.com/nillion/staking/nillionvaloper1s8ee8qaaz5gt38pfksjry79jcjwrd78mphjf2r">NILLION</a></h2>
+    <img src="https://github.com/user-attachments/assets/NEW_NILLION_IMAGE_ID" style="width: 150px; height: 150px; border-radius: 50%;">
+  </div>
 </div>
